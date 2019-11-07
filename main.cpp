@@ -8,7 +8,8 @@ using namespace std;
 
 int main () {
     Rectangle r;
-    Rectangle t;
+    //Rectangle t;
+    Triangle t;
     Polygon poly;
     Polygon * ppoly1 = &r;
     Polygon * ppoly2 = &t;
